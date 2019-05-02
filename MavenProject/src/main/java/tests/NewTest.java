@@ -117,9 +117,7 @@ try {
    System.out.println("before");
    System.setProperty("webdriver.gecko.driver", "E:\\Selenium\\geckodriver.exe");
    driver = new FirefoxDriver();
-   File dir1 = new File("ABZ");  //Specify the Folder name here
-
-   dir1.mkdir( );  //Creates the folder with the above specified name
+  
    
   }
  
