@@ -28,5 +28,6 @@ public static void printStars(int n)
 
         // ending line after each row 
         System.out.println(); 
+        System.out.println(); 
            } 
 }}
